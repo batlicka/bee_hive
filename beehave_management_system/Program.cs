@@ -8,9 +8,7 @@ namespace beehave_management_system
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+        //toto je projekt zalohovaný na git hub
         [STAThread]
         static void Main()
         {
